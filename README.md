@@ -1,3 +1,3 @@
 # Rotate Image Gallery
 
-![Screenshot (7)](https://github.com/Rajiv-0920/Rotate-Image-Gallery/assets/133740418/b7a3e78c-a977-4d23-8bfb-730d8bae2b97)
+![Screenshot (8)](https://github.com/Rajiv-0920/Rotate-Image-Gallery/assets/133740418/a7f0c442-1c3b-456d-bfa9-d14b21497b2f)
