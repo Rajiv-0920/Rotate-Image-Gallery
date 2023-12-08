@@ -35,3 +35,23 @@ img {
     display: block;
     border-radius: 5px;
 }
+
+.btn-container {
+    display: flex;
+    gap: 30px;
+}
+
+.btn {
+    font-size: 1.1rem;
+    padding: 10px 30px;
+    border: none;
+    background-color: rgb(2, 101, 214);
+    color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.btn:hover {
+    background-color: rgb(2, 89, 188);
+}
