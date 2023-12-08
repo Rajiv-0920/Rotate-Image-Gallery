@@ -9,7 +9,7 @@ body {
     display: grid;
     place-items: center;
     overflow: hidden;
-    /* background-color: rgb(19, 19, 45); */
+    background-color: rgb(19, 19, 45);
 }
 
 .img-container {
